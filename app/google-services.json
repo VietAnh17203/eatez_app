@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71010235196",
+    "project_id": "eatez-6309a",
+    "storage_bucket": "eatez-6309a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71010235196:android:4543b9916d9db9e7b2e439",
+        "android_client_info": {
+          "package_name": "com.thuanht.eatez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71010235196-st3325hes1eciavub09d8bo7u808rtop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thuanht.eatez",
+            "certificate_hash": "2d77e9a21e432c6865c594f4b0ad2eab72786f01"
+          }
+        },
+        {
+          "client_id": "71010235196-lk0tchk5kd1e4de4cjr1otdptn3blsjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Vwu4wmJDBjYgBBQNYVehHR23bXICwBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71010235196-lk0tchk5kd1e4de4cjr1otdptn3blsjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
